@@ -1,0 +1,6 @@
+framework module Pods_LvivPod {
+  umbrella header "Pods-LvivPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_LvivPodTests {
+  umbrella header "Pods-LvivPodTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

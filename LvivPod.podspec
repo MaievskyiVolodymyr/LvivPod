@@ -36,7 +36,7 @@ s.framework = "UIKit"
 s.dependency 'Hero', '~> 1.4.0'
 
 # 8
-s.source_files = 'Source/*.{swift}'
+#  s.source_files = 'Source/*.{swift}'
 
 # 10
 s.swift_version = "4.2"

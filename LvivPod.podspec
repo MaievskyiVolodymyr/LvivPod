@@ -29,7 +29,7 @@ s.homepage = "https://github.com/MaievskyiVolodymyr/LvivPod"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/MaievskyiVolodymyr/LvivPod.git",
-:tag => "#{s.version}" }
+:tag => "0.1.3" }
 
 # 7
 s.framework = "UIKit"

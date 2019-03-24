@@ -6,6 +6,8 @@
 #  To see working Podspecs in the CocoaPods repo see https://github.com/CocoaPods/Specs/
 #
 
+Pod::Spec.new do |s|
+
 # 1
 s.platform = :ios
 s.ios.deployment_target = '11.0'
